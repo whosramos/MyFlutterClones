@@ -1,14 +1,4 @@
 # MyFlutterClones
-With the purpose of improving my application development process and skills I took it upon myself to create versions of famous applications for 1 month
+💻💻 To improve my application development process and skills in Flutter, here are some famous application clones for study purposes which will continue to be updated over time.
 
-Check out my repositories:
-
-* <img  align="center" src="https://img.icons8.com/bubbles/50/000000/whatsapp.png"/> [**Flutter - Whatsapp**](https://github.com/whosramos/Flutter-whatsapp)
-
-* <img  align="center" src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"/>[**Flutter - Messenger**](https://github.com/whosramos/Flutter-Messenger)
-
-* <img  align="center" src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>[**Flutter - Spotify**](https://github.com/whosramos/Flutter-Spotify)
-
-* <img  align="center" src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>[**Flutter - Tiktok**](https://github.com/whosramos/Flutter-Tiktok)
-
-
+![Flutter Clone Apps](./FlutterClonesApps.png)
